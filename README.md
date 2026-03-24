@@ -2,7 +2,9 @@
 
 📫 How to reach me: pgalin3@wgu.edu
 😄 Pronouns: she/her
-⚡ Fun fact: I've been to the bermuda Triangle
+⚡Fun fact: I've been to the bermuda Triangle
+💻 My goal is to create cyberseurity projects to gain hands-on skills
+📚 I enjoy reading, art, learning herbalism, and playing PC games
 <!--
 **cryptoglitch/cryptoglitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
